@@ -1,0 +1,101 @@
+mention_id,concept_expression,explain_text,expectation
+106765_1_1_1_3_0_22,Quản_lý chất_thải,"hoạt_động phân_loại , thu_gom , vận_chuyển , giảm_thiểu , tái sử_dụng , tái_chế , xử_lý , tiêu_hủy , thải loại chất_thải .",0.853
+93411_1_1_1_3_0_74,Trục đường chính,"trục đường có lòng_đường từ 10 m trở lên , kể_cả dãy phân_cách .",0.851
+74838_1_1_1_2_0_7,Cáp điện ngầm,dây dẫn_điện chuyên_dùng có cấp cách_điện phù_hợp được đặt ngầm trong lòng đất theo quy_phạm .,0.852
+71232_1_1_1_2_0_13,Cơ_sở dữ_liệu ( Database ),"tập_hợp các dữ_liệu được tổ_chức và sắp_xếp chặt_chẽ để cập_nhật , quản_lý và khai_thác thông_qua phương_tiện điện_tử .",0.853
+77568_1_1_1_3_0_16,Ô_nhiễm nguồn nước,"sự thay_đổi tính_chất vật_lý , tính_chất hoá_học , thành_phần sinh_học của nước vi_phạm tiêu_chuẩn cho phép .",0.874
+53083_1_1_1_3_0_3,Chỉ_giới đường đỏ,đường ranh_giới phân_định giữa phần thửa đất để xây_dựng công_trình và phần đất được dành cho đường giao_thông hoặc các công_trình kỹ_thuật hạ_tầng .,0.85
+118307_1_1_1_2_0_19,Người chơi,các cá_nhân thuộc đối_tượng được phép chơi các loại_hình trò_chơi có thưởng tại Điểm kinh_doanh casino quy_định tại Điều 11 và Điều 12 Nghị_định này .,0.889
+12960_1_1_1_1_0_15,Phân_bón rễ,các loại phân_bón được bón trực_tiếp vào đất hoặc vào nước để cung_cấp chất dinh_dưỡng cho cây_trồng thông_qua bộ rễ ;,0.856
+31415_1_1_1_2_0_19,"Đường_dây , cáp thuê_bao","đoạn dây , cáp viễn_thông , truyền_hình được kéo từ hộp cáp , bộ chia đến phía ngoài hộ thuê_bao ;",0.855
+44356_1_1_1_3_0_3,Đô_thị,"phạm_vi ranh_giới địa_chính nội_thị của thành_phố , thị_xã và thị_trấn ; bao_gồm các quận và phường ( đối_với thành_phố và thị_xã ) và các khu_phố xây_dựng tập_trung ( đối_với thị_trấn thuộc huyện ) .",0.859
+14645_1_1_1_3_0_8,Chứng_thư số có hiệu_lực,"chứng_thư số chưa hết hạn , không bị tạm dừng hoặc bị thu_hồi .",0.85
+86022_1_1_1_2_0_46,Các dịch_vụ thoát_nước,"các dịch_vụ công_cộng do đơn_vị được giao quản_lý vận_hành hệ_thống thoát_nước cung_cấp , bao_gồm thu_gom , vận_chuyển và xử_lý nước_thải và nước mưa .",0.854
+6283_1_1_1_3_0_24,Thay_đổi tổng_thành,thay_thế tổng_thành nguyên_thuỷ bằng tổng_thành khác có tính_năng kỹ_thuật tương_đương .,0.858
+54186_1_1_1_3_0_4,Giống vật_nuôi,"quần_thể vật_nuôi cùng loài , cùng nguồn_gốc , có ngoại_hình và cấu_trúc di_truyền tương_tự nhau , được hình_thành , củng_cố , phát_triển do tác_động của con_người ; giống vật_nuôi phải có số_lượng nhất_định để nhân_giống và di_truyền được những đặc_điểm của giống cho thế_hệ sau .",0.857
+50606_1_1_1_1_0_15,Bảo_quản VLNCN,"hoạt_động cất_giữ VLNCN trong kho , trong quá_trình vận_chuyển đến nơi sử_dụng hoặc tại nơi sử_dụng .",0.876
+22665_1_1_1_1_0_25,Quy_trình bảo_trì_công_trình,"trình_tự thực_hiện các công_việc cần_thiết nhằm phục_hồi chất_lượng các bộ_phận , hạng_mục công_trình để công_trình có khả_năng tiếp_tục thực_hiện chức_năng theo yêu_cầu .",0.874
+74234_1_1_1_2_0_17,"Công_trình đường_dây , cáp , đường_ống kỹ_thuật ngầm","các công_trình đường_ống cấp_nước , cấp năng_lượng , thoát nước ; công_trình đường_dây cấp điện , thông_tin liên_lạc được xây_dựng dưới mặt_đất .",0.852
+50606_1_1_1_1_0_19,Tiêu_huỷ VLNCN,quá_trình phá_bỏ hoặc làm mất khả_năng tạo ra phản_ứng nổ của VLNCN theo quy_trình công_nghệ đã được xác_định .,0.86
+51624_1_1_1_2_0_23,Lập hồ_sơ,"việc tập_hợp và sắp_xếp tài_liệu hình_thành trong quá_trình theo_dõi , giải_quyết công_việc của cơ_quan , tổ_chức , cá_nhân thành hồ_sơ theo những nguyên_tắc và phương_pháp nhất_định .",0.867
+27344_1_1_1_2_0_45,Chuyến bay chuyên_cơ,chuyến bay sử_dụng hoàn_toàn riêng_biệt hoặc kết_hợp vận_chuyển thương_mại và được cơ_quan nhà_nước có thẩm_quyền xác_nhận hoặc thông_báo theo quy_định phục_vụ chuyến bay chuyên_cơ .,0.866
+22498_1_1_1_1_0_32,Phát_hành báo_chí,việc lưu_hành các sản_phẩm báo_chí đến người sử_dụng báo_chí thông_qua các phương_tiện khác nhau .,0.85
+7409_1_1_1_3_0_4,Tiền_mặt,"các loại tiền_giấy , tiền kim_loại do Ngân_hàng Nhà_nước phát_hành ;",0.851
+123582_1_2_2_1_0_8,Rủi_ro thị_trường,"rủi_ro do biến_động bất_lợi của lãi_suất , tỷ_giá , giá chứng_khoán và giá hàng_hóa trên thị_trường .",0.857
+54258_1_1_1_3_0_25,Tiêu_hủy vật_liệu_nổ_công_nghiệp,quá_trình phá_bỏ hoặc làm mất khả_năng tạo ra phản_ứng nổ của vật_liệu_nổ_công_nghiệp theo quy_trình công_nghệ đã được xác_định .,0.855
+6574_1_1_1_1_0_25,Ô_nhiễm môi_trường,"sự làm thay_đổi tính_chất môi_trường theo chiều_hướng xấu đi , vi_phạm tiêu_chuẩn môi_trường .",0.854
+13864_1_1_1_3_0_89,Thông_báo SIGMET,bản tin cảnh_báo do cơ_sở cung_cấp dịch_vụ cảnh_báo thời_tiết cung_cấp liên_quan đến sự xuất_hiện hoặc dự_kiến xuất_hiện các hiện_tượng thời_tiết trên đường_bay và có khả_năng uy_hiếp an_toàn bay .,0.886
+112717_1_1_1_3_0_10,Xe_mô_tô_ba_bánh,"xe cơ_giới ba bánh , có dung_tích xi_lanh từ 50 cm3 trở lên , khối_lượng bản_thân không lớn hơn 400 kg .",0.863
+112265_1_1_1_2_0_20,Ô_nhiễm môi_trường,"sự biến_đổi của các thành_phần môi_trường không phù_hợp với tiêu_chuẩn môi_trường , gây ảnh_hưởng xấu đến con_người , sinh_vật .",0.854
+48424_1_1_1_2_0_20,Ô_nhiễm nguồn nước,"sự thay_đổi tính_chất vật_lý , tính_chất hoá_học , thành_phần sinh_học của nước vi_phạm tiêu_chuẩn cho phép ;",0.859
+26011_1_1_1_2_0_51,Tổ_hợp bảo_lãnh phát_hành,tập_hợp các tổ_chức bảo_lãnh phát_hành được chủ_thể phát_hành lựa_chọn tham_gia quá_trình phát_hành_trái_phiếu .,0.854
+106144_1_1_1_3_0_16,Cáp chính,"đoạn cáp viễn_thông từ giá đấu dây ( MDF ) tới tủ cáp , hộp cáp , măng_sông rẽ nhánh đầu_tiên .",0.869
+87729_1_1_1_2_0_6,Bổ_nhiệm lần đầu ' ',"việc người đứng đầu_cơ_quan có thẩm_quyền quyết_định cử cán_bộ , công_chức , viên_chức lần đầu_tiên giữ chức_vụ lãnh_đạo hoặc quyết_định cử giữ chức_vụ lãnh_đạo mới cao hơn chức_vụ đang đảm_nhiệm .",0.865
+44007_1_1_1_3_0_24,Bố_trí dân_cư tập_trung,"di_chuyển các hộ gia_đình , cá_nhân đến điểm tái_định_cư tập_trung_thành_lập điểm dân_cư mới .",0.85
+127291_1_1_1_4_0_10,Đoạn ống lộ,"đoạn ống chôn ngầm nhưng theo thời_gian lớp phủ bị bào_mòn làm cho đoạn ống lộ ra hoặc dịch_chuyển khỏi vị_trí ban_đầu hoặc được đặt trên bề_mặt_biển , mặt_đất hoặc bề_mặt sông , hồ .",0.862
+111617_1_1_1_2_0_18,Khả_năng tiếp_nhận nước_thải của nguồn nước,"lượng nước_thải mà nguồn nước có_thể tiếp_nhận , không làm chất_lượng của nguồn đó vượt quá tiêu_chuẩn chất_lượng cho phép do các cơ_quan nhà_nước có thẩm_quyền quy_định đối_với từng khu_vực cụ_thể .",0.853
+100743_1_1_1_2_0_15,Danh_mục vật_liệu_nổ_công_nghiệp Việt_Nam ' ',"bản liệt_kê các loại vật_liệu_nổ_công_nghiệp được phép lưu_thông , sử_dụng ở Việt_Nam .",0.868
+41499_1_1_1_3_0_23,Hoạt_động VLNCN,"việc thực_hiện một trong số hoạt_động nghiên_cứu , thử_nghiệm , sản_xuất , mua_bán , xuất_khẩu , nhập_khẩu , bảo_quản , vận_chuyển , sử_dụng , tiêu_huỷ , giám_sát ảnh_hưởng nổ mìn .",0.854
+100768_1_1_1_2_0_15,Chất_thải,"toàn_bộ những vật_chất được thải ra từ quá_trình sản_xuất , sinh_hoạt , bao_gồm cả chất_thải ở dạng rắn và dạng lỏng .",0.859
+20559_1_1_1_3_0_9,Tàu_thuyền,"phương_tiện hoạt_động trên mặt_nước hoặc dưới mặt_nước bao_gồm tàu , thuyền và các phương_tiện khác có động_cơ hoặc không có động_cơ .",0.857
+111741_1_1_1_3_0_10,Người thu_gom,"các tổ_chức , cá_nhân thu_gom than trôi .",0.851
+7624_1_1_1_3_0_26,Tẩy_xạ,quá_trình loại_bỏ hoặc làm giảm các chất bẩn phóng_xạ ở bên trong hoặc trên bề_mặt của đối_tượng xuống mức cho phép .,0.874
+18524_1_1_1_1_0_43,Giám_sát bệnh truyền_nhiễm,"điều_tra , giám_sát dịch_tễ , huyết_thanh , căn nguyên , triệu_chứng lâm_sàng và đánh_giá khả_năng phát_triển , lây_lan trở_thành dịch của một bệnh truyền_nhiễm .",0.855
+67078_1_1_1_4_0_10,Nhóm nhà,"tập_hợp nhiều ngôi nhà có vị_trí gần nhau , được sắp_xếp theo những nguyên_tắc nhất_định và cách_biệt với những ngôi nhà khác bởi hàng_rào , đường giao_thông .",0.855
+39198_1_1_1_2_0_55,Thực_hiện cơ_chế “ một cửa liên_thông,"thực_hiện theo quy_định tại Thông_tư liên_tịch số 05/2008 / TTLT / BKH-BTC-BCA ngày 29/7/2008 của Liên_bộ Bộ Kế_hoạch và Đầu_tư , Bộ Tài_chính , Bộ Công_an hướng_dẫn cơ_chế phối_hợp giữa các cơ_quan giải_quyết đăng_ký_kinh_doanh , đăng_ký thuế và đăng_ký con_dấu đối_với doanh_nghiệp thành_lập , hoạt_động theo Luật_Doanh_nghiệp .",0.858
+56054_1_1_1_2_0_31,Thông_tin vô_tuyến_điện,"sự truyền_dẫn , phát hoặc thu ký_hiệu , tín_hiệu , tín_hiệu , số_liệu , chữ_viết , hình_ảnh , âm_thanh hoặc dạng thông_tin khác bằng sóng vô_tuyến_điện .",0.851
+107235_1_1_1_2_0_20,Khoản viện_trợ PCPNN,"chương_trình , dự_án và viện_trợ phi dự_án ( kể_cả cứu_trợ khẩn_cấp ) .",0.858
+41498_1_1_1_2_0_7,Kinh_doanh cung_ứng VLNCN,"hoạt_động mua , bán , xuất_khẩu , nhập_khẩu , vận_chuyển , bảo_quản VLNCN .",0.855
+128081_1_1_1_3_0_12,Cáp chính,"đoạn cáp viễn_thông từ giá đấu dây ( MDF ) tới tủ cáp , hộp cáp , măng_sông rẽ nhánh đầu_tiên .",0.88
+127863_1_1_1_5_0_4,Phương_tiện quảng_cáo,"những vật_thể cố_định , vật_thể di_động dùng để thực_hiện quảng_cáo bằng chữ hoặc hình_ảnh , lô gô biểu_tượng .",0.851
+61970_1_1_1_3_0_13,Đường truyền_dẫn,"tập_hợp các thiết_bị truyền_dẫn được liên_kết với nhau bằng đường cáp viễn_thông , sóng vô_tuyến điện , các phương_tiện quang_học và các phương_tiện điện_từ khác .",0.851
+41500_1_1_1_3_0_28,Quản_lý nguy_cơ,"quá_trình cân_nhắc các phương_án chính_sách dựa trên kết_quả của đánh_giá nguy_cơ , lựa_chọn và thực_hiện biện_pháp kiểm_soát phù_hợp .",0.86
+101462_1_1_1_4_0_6,Văn_bản đến,"tất_cả các loại văn_bản , bao_gồm văn_bản quy_phạm pháp_luật , văn_bản hành_chính và văn_bản chuyên_ngành ( kể_cả bản Fax , văn_bản được chuyển qua mạng , văn_bản mật ) và đơn , thư gửi đến cơ_quan , tổ_chức .",0.85
+54234_1_1_1_2_0_7,"Phân vô_cơ ( phân_khoáng , phân_hoá_học )",loại phân có chứa các chất dinh_dưỡng vô_cơ cần_thiết cho sự sinh_trưởng và phát_triển của cây_trồng ;,0.868
+14399_1_1_1_4_0_8,Đoạn ống treo,"đoạn ống chôn ngầm , nhưng theo thời_gian lớp phủ bị bào_mòn làm cho đoạn ống lộ ra hoặc dịch_chuyển khỏi vị_trí ban_đầu ;",0.857
+72597_1_1_1_3_0_17,Tổ_chức cung_cấp dịch_vụ T-VAN,tổ_chức hoạt_động trong lĩnh_vực công_nghệ thông_tin được Tổng_cục Thuế_ký thỏa_thuận cung_cấp dịch_vụ giá_trị gia_tăng về giao_dịch điện_tử trong lĩnh_vực thuế .,0.852
+114326_1_1_1_3_0_19,"Kênh an_toàn , cứu_nạn",kênh dành riêng phục_vụ thông_tin an_toàn cứu_nạn .,0.869
+122964_1_1_1_3_0_9,An_toàn thông_tin,"sự bảo_vệ thông_tin và hệ_thống thông_tin nhằm bảo_đảm tính nguyên_vẹn , tính chính_xác của thông_tin và khả_năng khai_thác , sử_dụng liên_tục của hệ_thống thông_tin .",0.854
+30458_1_1_1_3_0_24,Dự_án,"tập_hợp các đề_xuất có liên_quan đến nhau nhằm đạt được một hoặc một_số mục_tiêu nhất_định , được thực_hiện trên địa_bàn cụ_thể , trong khoảng thời_gian xác_định và dựa trên những nguồn_lực xác_định .",0.868
+52726_1_1_1_3_0_10,Nhóm nhà,"tập_hợp nhiều ngôi nhà có vị_trí gần nhau , được sắp_xếp theo những nguyên_tắc nhất_định và cách_biệt với những ngôi nhà khác bởi hàng_rào , đường giao_thông .",0.85
+98165_1_1_1_3_0_4,Đa_dạng sinh_học,"sự phong_phú về nguồn gen , về giống , loài sinh_vật và hệ sinh_thái tự_nhiên ;",0.89
+106144_1_1_1_3_0_14,Cáp đồng trục,"cáp viễn_thông sử_dụng trong các hệ_thống truyền dữ_liệu băng rộng , có cấu_trúc gồm một dây_dẫn trong , lớp điện_môi bao quanh và một lớp vỏ bảo_vệ bên ngoài .",0.851
+27212_1_1_1_3_0_17,Chuyến bay nội_địa,chuyến bay có điểm cất_cánh và hạ_cánh trong lãnh_thổ Việt_Nam .,0.859
+83627_1_1_1_4_0_14,Hẻm nhánh,"lối đi_lại trong cụm dân_cư có một đầu thông ra hẻm , không trực_tiếp thông ra đường .",0.854
+48494_1_1_1_3_0_12,Công_trình đầu_mối kỹ_thuật ngầm,"các công_trình_hạ_tầng_kỹ_thuật ngầm , bao_gồm : trạm cấp_nước , trạm xử_lý nước_thải , trạm biến_áp , trạm gas . . .",0.863
+26772_1_1_1_1_0_18,Định_mức vật_tư tiêu_hao,lượng vật_tư tiêu_hao cho sản_xuất một đơn_vị sản_phẩm gia_công ;,0.853
+24803_1_3_1_2_0_49,Kiểm_tra an_ninh tầu_bay,"việc kiểm_tra khu_vực bên trong của một tầu_bay nơi hành_khách có_thể đã tiếp_cận và việc kiểm_tra khoang tầu_bay với mục_đích tìm_kiếm những vật nghi_ngờ , vũ_khí , chất_nổ hoặc những thiết_bị nguy_hiểm khác .",0.86
+59019_1_1_1_3_0_12,Bảo_quản VLNCN,"hoạt_động cất_giữ VLNCN trong kho , trong quá_trình vận_chuyển đến nơi sử_dụng hoặc tại nơi sử_dụng .",0.889
+41340_1_1_1_3_0_10,Biến_thiên từ,"sự thay_đổi trường địa_từ theo thời_gian , các loại biến_thiên từ gồm biến_thiên thế_kỷ , biến_thiên ngày_đêm và bão_từ .",0.85
+43271_1_1_1_3_0_4,Gắn_biển_số_nhà,việc xác_định để gắn_biển vào vị_trí lắp_đặt biển_số_nhà theo nguyên_tắc thống_nhất .,0.851
+19570_1_1_1_4_0_8,Thừa_nhận,việc một Cơ_quan chỉ_định của Bên tham_gia MRA chấp_nhận Phòng đo kiểm được một Cơ_quan chỉ_định của Bên tham_gia MRA khác chỉ_định .,0.856
+40786_1_1_1_2_0_10,Vận_tải khách bằng xe_buýt,"hoạt_động vận_tải_khách bằng ơ tô theo tuyến cố_định có các điểm dừng , đón trả khách và xe chạy theo biểu_đồ vận_hành .",0.852
+120738_1_1_1_4_0_3,Chỉ_giới đường đỏ,đường ranh_giới phân_định giữa phần lô đất xây_dựng công_trình và phần đất được dành cho đường giao_thông hoặc các công_trình kỹ_thuật hạ_tầng .,0.857
+104473_1_1_1_3_0_15,Ô_nhiễm môi_trường ( theo quy_định tại khoản 6 Điều 3 Luật Bảo_vệ Môi_trường số 52/2005 / QH11 ),"sự biến_đổi của các thành_phần môi_trường không phù_hợp với tiêu_chuẩn môi_trường , gây ảnh_hưởng xấu đến con_người , sinh_vật theo Quy_chuẩn chất_lượng quốc_gia về chất_lượng nước mặt ( QCVN08 : 2008 / BTNMT ban_hành kèm theo Quyết_định số 16/2008 / QĐ-BTNMT ngày 31 tháng 12 năm 2008 của Bộ Tài_nguyên và Môi_trường ) ; Quy_chuẩn kỹ_thuật quốc_gia về chất_lượng nước_ngầm ( QCVN09 : 2008 / BTNMT ban_hành kèm theo Quyết_định số 16/2008 / QĐ-BTNMT ngày 31 tháng 12 năm 2008 của Bộ Tài_nguyên và Môi_trường ) ; Quy_chuẩn kỹ_thuật quốc_gia về giới_hạn cho phép của kim_loại nặng trong đất ( QCVN03 : 2008 / BTNMT ban_hành kèm theo Quyết_định số 04/2008 / QĐ-BTNMT ngày 18 tháng 7 năm 2008 của Bộ Tài_nguyên và Môi_trường ) ; Quy_chuẩn kỹ_thuật quốc_gia về chất_lượng không_khí xung_quanh ( QCVN05 : 2009 / BTNMT ban_hành kèm theo Thông_tư số 16/2009 / TT-BTNMT ngày 07 tháng 10 năm 2009 của Bộ Tài_nguyên và Môi_trường ) ;",0.859
+93486_1_1_1_4_0_80,Trục đường chính,"trục đường có lòng_đường từ 10 m trở lên , kể_cả dãy phân_cách .",0.85
+72914_1_1_1_3_0_29,Công_nghệ thông_tin,"tập_hợp các phương_pháp khoa_học , các phương_tiện và công_cụ kĩ_thuật hiện_đại - chủ_yếu là kĩ_thuật máy_tính và viễn_thông - nhằm tổ_chức khai_thác và sử_dụng có hiệu_quả các nguồn tài_nguyên thông_tin rất phong_phú và tiềm_năng trong mọi lĩnh_vực hoạt_động của con_người và xã_hội .",0.871
+49405_1_1_1_2_0_20,Ô_nhiễm nguồn nước,"sự thay_đổi tính_chất vật_lý , tính_chất hóa_học , thành_phần sinh_học của nước vi_phạm tiêu_chuẩn cho phép .",0.852
+49198_1_1_1_2_0_5,Ăng-ten dây co,loại ăng-ten gồm kết_cấu trụ chính ở giữa được giằng định_vị bằng hệ_thống dây co xung_quanh .,0.854
+42568_1_1_1_3_0_18,Bảo_quản VLNCN,"hoạt_động cất_giữ VLNCN trong kho , trong quá_trình vận_chuyển đến nơi sử_dụng hoặc tại nơi sử_dụng .",0.894
+76523_1_1_1_3_0_9,Nhóm nhà,"tập_hợp nhiều ngôi nhà có vị_trí gần nhau , được xắp xếp theo những nguyên_tắc nhất_định và cách_biệt với những ngôi nhà khác bởi hàng_rào , đường giao_thông .",0.853
+106144_1_1_1_3_0_23,Hộp_cáp,"kết_cấu dạng hộp , nhỏ bằng kim_loại hoặc polyme kín , chống được nước mưa , trong đó có các phiến nối dây với tổng dung_lượng từ 10 đôi đến 50 đôi , dùng để nối cáp phối với cáp thuê_bao .",0.857
+13612_1_1_1_2_0_8,Cho vay hợp vốn,"việc Quỹ đầu_tư_phát_triển địa_phương và các tổ_chức khác cùng cho vay vốn đầu_tư một dự_án , trong đó Quỹ đầu_tư_phát_triển địa_phương hoặc một tổ_chức khác đứng ra làm đầu_mối phối_hợp và thực_hiện cho vay .",0.855
+26919_1_1_1_3_0_8,Trang_chủ,trang thông_tin điện_tử hiển_thị đầu_tiên trên màn_hình có tên_miền được quy_định trong giấy_phép hoạt_động báo_chí điện_tử .,0.85
+49536_1_1_1_2_0_4,Bến khách ngang_sông,"nơi cập bến phương_tiện để đón và trả khách , và hành_lý tham_gia giao_thông trên sông .",0.861
+17586_1_1_1_4_0_13,Phân phức_hợp,loại phân đa yếu_tố được sản_xuất trên cơ_sở hóa_hợp các nguyên_liệu ;,0.853
+68861_1_1_1_2_0_22,Khu_giết_mổ,"nơi diễn ra các hoạt_động tắm , gây choáng , tháo tiết , lấy phủ_tạng , làm sạch phủ_tạng , rửa thân thịt lần cuối , kiểm_tra thân thịt lần cuối và dán tem , đóng_dấu kiểm_soát giết_mổ .",0.865
+76125_1_1_1_3_0_20,Tiêu_hủy VLNCN,quá_trình phá_bỏ hoặc làm mất khả_năng tạo ra phản_ứng nổ của VLNCN theo quy_trình công_nghệ đã được xác_định .,0.855
+52812_1_1_1_3_0_13,Trực_canh,"các Đài_tàu duy_trì canh nghe liên_tục trên các tần_số gọi cấp_cứu , thông_tin cảnh_báo khí_tượng , cảnh_báo hàng_hải và những thông_tin khẩn_cấp khác ở những dải_tần_số cố_định do các Đài_thông_tin duyên_hải hoặc các Đài_tàu khác cung_cấp .",0.863
+78037_1_1_1_3_0_18,Chất_dẻo,"những hợp_chất hữu_cơ cao phân_tử được tạo ra bởi quá_trình polime hoá , quá_trình trùng ngưng , quá_trình trùng_hợp hay các quá_trình tương_tự từ các phân_tử có khối_lượng thấp hơn .",0.878
+19650_1_1_1_1_0_42,Người yêu_cầu cung_cấp thông_tin,"bất_kỳ tổ_chức , cá_nhân nào có đơn yêu_cầu cung_cấp thông_tin về đăng_ký tầu_bay và đăng_ký các quyền đối_với tầu_bay .",0.865
+36124_1_1_1_3_0_6,Kiểm_tra doanh_nghiệp_nhà_nước,"hoạt_động xem_xét , xác_minh , làm rõ và kết_luận của cơ_quan nhà_nước có thẩm_quyền định_kỳ hoặc đột_xuất theo căn_cứ , trình_tự , thủ_tục do pháp_luật quy_định về việc chấp_hành pháp_luật và tuân_thủ các quyết_định của chủ_sở_hữu đối_với doanh_nghiệp_nhà_nước .",0.853
+71577_1_1_1_2_0_200,Tập_hợp_số dữ_liệu,tập_hợp các tệp dữ_liệu có cùng quy_cách sản_phẩm ( ISO 19115 ) .,0.851
+87729_1_1_1_2_0_12,Từ_chức ' ',"việc cán_bộ , công_chức , viên_chức lãnh_đạo tự_nguyện xin thôi giữ chức_vụ lãnh_đạo khi chưa hết thời_hạn bổ_nhiệm và được cơ_quan có thẩm_quyền đồng_ý .",0.857
+65654_1_1_1_2_0_19,Tiêu_huỷ VLNCN,quá_trình phá_bỏ hoặc làm mất khả_năng tạo ra phản_ứng nổ của VLNCN theo quy_trình công_nghệ đã được xác_định .,0.867
+17242_1_1_1_2_0_53,Vốn đối_ứng,phần vốn trong nước cần_thiết mà phía Việt_Nam phải_chi cùng với vốn vay nước_ngoài để thực_hiện dự_án .,0.853
+63956_1_1_1_2_0_3,"Chương_trình , Kế_hoạch khuyến_công","tập_hợp các đề_án , nhiệm_vụ khuyến_công giai_đoạn 5 năm , hàng năm , trong đó đưa ra tiến_độ , dự_kiến kết_quả cụ_thể cần đạt được nhằm đáp_ứng yêu_cầu của chương_trình khuyến_công địa_phương từng giai_đoạn .",0.868
+102200_1_1_1_2_0_11,Nghiên_cứu cơ_bản,"những nghiên_cứu nhằm phát_hiện thuộc_tính , cấu_trúc , động_thái của các sự_vật , tương_tác trong nội_bộ sự_vật và mối liên_hệ sự_vật với các sự_vật khác .",0.852
+116178_1_1_1_2_0_10,Tích_hợp dữ_liệu,"quá_trình thu_thập , lưu_trữ , liên_kết các cơ_sở dữ_liệu tác_nghiệp và điều_hành ; cung_cấp và chia_sẻ các thông_tin chung ; truyền_tải các thông_tin quản_lý bao_gồm các văn_bản quy_phạm pháp_luật và các văn_bản hành_chính do các cơ_quan có thẩm_quyền ban_hành .",0.851
+19252_1_1_1_3_0_14,Tuyển_dụng,việc tuyển người theo hình_thức hợp_đồng làm_việc trong biên_chế ở đơn_vị_sự_nghiệp của Nhà_nước thông_qua thi hoặc xét tuyển ;,0.858
+73972_1_1_1_3_0_41,QCVN 022008 / BCT,"tên viết tắt của Quy_chuẩn kỹ_thuật quốc_gia số 02:2008 / BCT về an_toàn trong bảo_quản , vận_chuyển , sử_dụng và tiêu_hủy vật_liệu_nổ_công_nghiệp .",0.858
+117354_1_1_1_2_0_20,Hệ_số tín_nhiệm,"hệ_số các tổ_chức đánh_giá hệ_số tín_nhiệm xác_định để đánh_giá các quốc_gia ( hệ_số tín_nhiệm quốc_gia ) hoặc các doanh_nghiệp ( hệ_số tín_nhiệm doanh_nghiệp ) về mức_độ tin_cậy , mức_độ rủi_ro đầu_tư và khả_năng hoàn_trả các khoản vay .",0.871
